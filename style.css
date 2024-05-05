@@ -1,0 +1,217 @@
+* { margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+nav {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.img {
+    position: relative;
+    right: 650px;
+    top: 0;
+    width: 42px;
+    height: 54px;
+}
+header {
+    position: fixed;
+    width: 100%;
+    background-color: rgb(255, 255, 255); /* Adjust the alpha value as needed */
+
+    z-index: 1;
+}
+.main {
+    margin-top: 33px;
+    margin-right: 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    color: #636060;
+    text-decoration: none;
+}
+#first {
+    position: relative;
+    width: 100%;
+    top: 40px;
+}
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#h1 {
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 79px;
+    color: #FFFFFF;
+}
+.p1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 210px;   
+}
+#div1 > p,
+#div1 > h1 {
+    position: relative;
+    left: 100px;
+}
+.p2 {
+    top: 120px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    color: #636060;
+}
+.heading1 {
+    top: 130px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+}
+.p3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #636060;
+    top: 160px;
+}
+#div2 {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    position: relative;
+    right: 20px;
+    bottom: 45px;
+} 
+#div2 > img {
+    margin-right: 33px;
+}
+#heading {
+    position: relative;
+    left: 370px;
+    bottom: 25px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: #343232;
+}
+#div3 > .p3 {
+    position: relative;
+    left: 370px;
+    top: -10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #636060;
+    
+}
+#div3 > #heading1 {
+    position: relative;
+    left: 700px;
+    bottom: 110px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: #343232;
+}
+#div3 > .p4 {
+    position: relative;
+    left: 700px;
+    bottom: 100px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #636060
+}
+#heading2 {
+    position: relative;
+    left: 1010px;
+    bottom: 200px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: #343232;
+}
+#div3 > .p5 {
+    font-family: "Roboto", sans-serif;    font-weight: 400;
+    font-weight: 400;
+    font-size: 18px;
+    color: #636060;
+    position: relative;
+    left: 1010px;
+    bottom: 190px;
+}
+#div4 {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 20px;
+}
+.image5 {
+    margin-right: 33px;
+}
+#heading3 {
+    position: relative;
+    left: 370px;
+    top: 23px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: #343232;
+}
+.p6 {
+    font-family: "Roboto", sans-serif;    font-weight: 400;
+    font-weight: 400;
+    font-size: 18px;
+    color: #636060;
+    position: relative;
+    left: 370px;
+    top: 46px;
+}
+#heading4 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: #343232;
+    left: 690px;
+    position: relative;
+    bottom: 65px;
+}
+.p7 {
+    font-family: "Roboto", sans-serif;    font-weight: 400;
+    font-weight: 400;
+    font-size: 18px;
+    color: #636060;
+    position: relative;
+    left: 690px;
+    bottom: 45px;
+}
+#heading5 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: #343232;
+    position: relative;
+    left: 1010px;
+    bottom: 155px;
+}
+.p8 { 
+    font-family: "Roboto", sans-serif;    font-weight: 400;
+    font-weight: 400;
+    font-size: 18px;
+    color: #636060;
+    position: relative;
+    left: 1010px;
+    bottom: 135px;
+
+
+}
+
